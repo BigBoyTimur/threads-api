@@ -36,7 +36,7 @@ DATABASE_URL="mongodb://monty:pass@localhost:27017/mydatabase?authSource=admin&d
 
 SECRET_KEY='123'
 ```
-4. Запустить docker compose up
+4. Запустить docker compose up внутри сервера
 ```
 docker copmose up
 ```
