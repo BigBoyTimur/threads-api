@@ -1,0 +1,5 @@
+export { userController } from './user-controller.js'
+export { postController } from './post-controller.js'
+export { commentController } from './comment-controller.js'
+export { likeController } from './like-controller.js'
+export { followController } from './follow-controller.js'
